@@ -19,7 +19,6 @@ The game is set on three themes, with different levels (spring, autumn, winter).
 <img src="https://user-images.githubusercontent.com/92935796/213701123-78d698a6-586d-42bc-a1ee-d0c2fbc426ee.png" alt="drawing" width="450"/> __________ <img src="https://user-images.githubusercontent.com/92935796/213701126-db8b6152-7fe5-45b2-bc6d-5061ed54ef17.png" alt="drawing" width="450"/>
 
 
-
 Finally, the gameplay is played with three simple buttons, made to be comfortable on a mobile phone. The player has to avoid obstacles such as spikes and pits, all while collecting money that can be used in the shop (buy options not yet implemented).
 
 <img src="https://user-images.githubusercontent.com/92935796/213701993-940c64c2-522a-43c1-af14-a34c9b49b3f5.png" alt="drawing" width="450"/>
